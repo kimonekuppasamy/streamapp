@@ -13,7 +13,8 @@ this app has a **nodejs backend** with a **reactjs frontend**
 - run : npm install
 - run: npm install express --save
 - run: npm start
-this should start on your local host
+- this should start on your local host
+
 ### test routing: 
 - /grades
 - /grades/2020
@@ -23,7 +24,7 @@ this should start on your local host
 
 hosted on Heroku: https://kk-streamtestapi.herokuapp.com/
 
-# Install stream-app-kk
+## Install stream-app-kk
 - run: npm install
 - run: npm start
 
